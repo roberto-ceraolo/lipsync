@@ -1,3 +1,0 @@
-moviepy == 1.0.3
-elevenlabs == 0.2.27
-supabase == 2.3.4
